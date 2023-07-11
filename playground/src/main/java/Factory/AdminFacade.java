@@ -2,7 +2,7 @@ package Factory;
 
 public class AdminFacade implements ClientFacade{
     @Override
-    public AdminFacade login(String use , String password) {
+    public AdminFacade login(String user , String password) {
         return this;
     }
 
