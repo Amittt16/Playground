@@ -15,6 +15,7 @@ public class Singleton {
         return instance;
     }
 
+    //comment
     public void showMessage(){
         System.out.println("same Object");
     }
