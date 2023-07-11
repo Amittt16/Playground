@@ -2,7 +2,6 @@ package FactoryExample;
 
 import Factory.AdminFacade;
 import Factory.ClientFacade;
-import Factory.ClientType;
 import Factory.FacadeFactory;
 import org.junit.jupiter.api.Test;
 
